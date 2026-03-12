@@ -17,10 +17,6 @@ The result is a package ready to publish to PyPI (`pip install <name>`) or npm (
 ## Installation
 
 ```bash
-# Claude Code
-bash cli-anything-skill/scripts/install.sh
-
-# Or manually copy to your skills directory
 cp -r cli-anything-skill ~/.claude/skills/cli-anything
 ```
 
